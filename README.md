@@ -1,4 +1,4 @@
-Hi, I’m a System Developer 👋
+Hi, I’m David 👋
 
 I’m a recent System Development graduate passionate about building practical, user-friendly applications and continuously improving my skills.
 
